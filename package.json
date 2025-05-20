@@ -1,0 +1,16 @@
+{
+  "name": "blackfromlack",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mineflayer": "^4.6.1",
+    "discord.js": "^14.13.0"
+  }
+}
